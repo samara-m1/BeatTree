@@ -12,5 +12,5 @@ Created by Samara Mansoor, Kendra Go, and Liana Karim for SheInnovates 2025, Bea
 
 Still in development, BeatTree's Swift prototype currently includes many features, including the ability to search songs by artist, title, and tempo, a large database of songs of 125 different genres through the use of a CSV file from Kaggle, song suggestions of the same BPM of your selected song, and the ability to add songs to your "Song Log"! The future of BeatTree includes the full integration of our UI and code elements and more features to make our app great. 
 
-Stay tuned! 🎶🌳
+Stay tuned for more future updates! 🎶🌳
 
