@@ -1,9 +1,9 @@
 # BeatTree
 
-# Prototype demonstration: 
+### Prototype demonstration: 
 https://www.figma.com/proto/Nzz5petzxVJVc2Tltk2eFL/BeatTree---Sheinnovates-Hackathon?node-id=0-1&t=b5XgBqr8cVrDOyKO-1
 
-# Functionality Demonstration:
+### Functionality Demonstration:
 https://youtube.com/shorts/Dshc2F7B_Xs?feature=share
 
 ## What is BeatTree?
